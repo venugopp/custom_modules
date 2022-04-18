@@ -1,5 +1,5 @@
 {
-    "name": "custom_modules/core",
+    "name": "custom_modules/all",
     "description": "Custom modules for Drupal 9 project",
-    "type": "drupal-custom-module-core"
+    "type": "drupal-custom-module"
 }
