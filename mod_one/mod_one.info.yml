@@ -1,0 +1,4 @@
+name: Module One
+description: A sample custom module to try out all custom code
+type: module
+core_version_requirement: ^9

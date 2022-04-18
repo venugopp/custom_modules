@@ -1,0 +1,5 @@
+{
+    "name": "custom/modules",
+    "description": "Custom modules for Drupal 9 project",
+    "type": "drupal-custom-module"
+}
